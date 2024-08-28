@@ -1,6 +1,3 @@
-markdown
-
-Copy
 # Stock Performance Prediction Using PCA and OLS
 
 ## Overview
@@ -52,11 +49,11 @@ The output includes:
 
   
 - Performance metrics: CAGR, Sharpe ratio, maximum drawdown, and Calmar ratio.
-- ** CAGR=0.141205
-- ** Sharpe=0.784536
-- ** maxDD=-0.241537
-- ** maxDDD=620
-- ** Calmar ratio=0.584612
+- `CAGR=0.141205`
+- ` Sharpe=0.784536`
+- ` maxDD=-0.241537`
+- ` maxDDD=620`
+- ` Calmar ratio=0.584612`
  
 
 ## Contributing
