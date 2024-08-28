@@ -37,6 +37,9 @@ The script prints performance metrics and displays a plot of cumulative returns.
 
 - `fetch_and_prepare_data`: Fetches and cleans stock data.
 - `plot_explained_variance`: Visualizes the explained variance from PCA.
+  In this study, the 20 main components are extracted, and their explained variance ratio is plotted. In the trading strategy, we only consider the top 5 factors to linear regress with the 500 stocks returns.
+  ![Alt text](explainedVariance.png)
+
 - `perform_pca_and_regression`: Conducts PCA and OLS regression to generate trading signals.
 - `calculate_max_dd`: Computes the maximum drawdown and duration.
 
